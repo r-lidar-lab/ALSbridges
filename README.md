@@ -28,4 +28,4 @@ plot(las) |> add_hulls3d(bridge, col = "red")
 las = classify_bridges(las, bridge, upper_buffer = 25)
 plot(las, color = "Classification")
 ```
-
+![](https://github.com/metafor-ulaval/ALSbridges/blob/main/inst/extdata/screenshot.png?raw=true)
