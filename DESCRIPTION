@@ -1,0 +1,12 @@
+Package: ALSbridges
+Type: Package
+Title: Segment Bridges In ALS Data
+Version: 0.1.0
+Author: Jean-Romain Roussel
+Maintainer: Jean-Romain Roussel <jean-romain.roussel.1@ulaval.ca>
+Description: Segment Bridges In ALS Data.
+License: GPL-3
+Imports: data.table,sf,terra,rgl,lidR,RMCC,dbscan,glue,methods,grDevices
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
